@@ -1,6 +1,7 @@
  
 <h1 align="center">Hi 👋, I'm Abhinav Midha</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack developer from India.</h3>
+<p align="center">Pursuing BTech in Computer Science from The LNM Institute of Information Technology,Jaipur</p>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi-0824&label=Profile%20views&color=0e75b6&style=flat" alt="abhi-0824" /> </p>
