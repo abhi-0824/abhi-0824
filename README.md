@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **abhinavmidha0824@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1DRk-23pthHjKzmhJ4p_kMkSAHKEixSkl/view?usp=drive_link](https://drive.google.com/file/d/1DRk-23pthHjKzmhJ4p_kMkSAHKEixSkl/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1yr4GumN_Idz_xeeO_4R0Wrkh4UWov7OX/view?usp=drive_link](https://drive.google.com/file/d/1yr4GumN_Idz_xeeO_4R0Wrkh4UWov7OX/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
